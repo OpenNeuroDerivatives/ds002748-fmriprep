@@ -16,7 +16,3 @@
 [submodule "code/tacc-openneuro"]
 	path = code/tacc-openneuro
 	url = https://github.com/poldracklab/tacc-openneuro.git
-[submodule "tacc-openneuro"]
-	path = tacc-openneuro
-	url = https://github.com/poldracklab/tacc-openneuro.git
-	datalad-url = https://github.com/poldracklab/tacc-openneuro.git
