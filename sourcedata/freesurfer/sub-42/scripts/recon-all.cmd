@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/1w/PV/MD5E-s8152--e49d0f7536172a32fc57ade4d385b5f9.cmd/MD5E-s8152--e49d0f7536172a32fc57ade4d385b5f9.cmd
+/annex/objects/MD5E-s8152--e49d0f7536172a32fc57ade4d385b5f9.cmd
