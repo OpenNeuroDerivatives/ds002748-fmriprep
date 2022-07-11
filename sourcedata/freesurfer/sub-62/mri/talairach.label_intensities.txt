@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s1543--989158a9ae7703040134c8d248092d16.txt
+../../../../.git/annex/objects/vw/3M/MD5E-s1543--989158a9ae7703040134c8d248092d16.txt/MD5E-s1543--989158a9ae7703040134c8d248092d16.txt

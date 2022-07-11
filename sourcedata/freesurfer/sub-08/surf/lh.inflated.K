@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s289323--b3601b1225f939f2fa037b1e7f607d8d.K
+../../../../.git/annex/objects/QK/WZ/MD5E-s289323--b3601b1225f939f2fa037b1e7f607d8d.K/MD5E-s289323--b3601b1225f939f2fa037b1e7f607d8d.K
