@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Ff/WP/MD5E-s295007--c9f127c624b5364539e194b5b02f89bd.K/MD5E-s295007--c9f127c624b5364539e194b5b02f89bd.K
+/annex/objects/MD5E-s295007--c9f127c624b5364539e194b5b02f89bd.K
