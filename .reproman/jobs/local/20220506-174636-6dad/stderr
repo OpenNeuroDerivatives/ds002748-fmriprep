@@ -1,1 +1,16 @@
-/annex/objects/MD5E-s784--a0ecadfcf10e049627cac242e330dff7
+Warning: Permanently added 'c111-164' (ED25519) to the list of known hosts.
+WARNING (05/07/22 15:08:28): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4311920.hostlist.YUz1cQBV to get hosts
+starting job on c111-164
+starting job on c111-174
+starting job on c112-021
+starting job on c112-163
+starting job on c112-202
+starting job on c112-214
+starting job on c113-023
+starting job on c113-032
+starting job on c113-042
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+slurmstepd: error: *** JOB 4311920 ON c111-164 CANCELLED AT 2022-05-07T21:44:20 ***
+Terminated

@@ -1,1 +1,39 @@
-/annex/objects/MD5E-s2805--b24ba7b81842a01c3314f44274d0b346.6
+[ReproMan] pre-command...
+[ReproMan] executing command code/containers/scripts/singularity_cmd run -B /etc/protocols code/containers/images/bids/bids-fmriprep--21.0.1.sing sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002748-fmriprep participant --participant-label '07' -w '/scratch1/03201/jbwexler/work_dir/fmriprep//ds002748_sub-07' -vv --output-spaces MNI152NLin2009cAsym:res-2 anat func fsaverage5 --nthreads 14 --omp-nthreads 7 --skip-bids-validation --notrack --fs-license-file /home1/03201/jbwexler/.freesurfer.txt --use-aroma --ignore slicetiming --output-layout bids --cifti-output --resource-monitor --skull-strip-t1w skip --mem_mb 37500 --bids-database-dir /tmp --use-syn-sdc warn
+[ReproMan] ... within /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002748-fmriprep
+220218-11:11:03,365 nipype.workflow IMPORTANT:
+	 Running fMRIPrep version 21.0.1
+
+         License NOTICE ##################################################
+         fMRIPrep 21.0.1
+         Copyright 2021 The NiPreps Developers.
+         
+         This product includes software developed by
+         the NiPreps Community (https://nipreps.org/).
+         
+         Portions of this software were developed at the Department of
+         Psychology at Stanford University, Stanford, CA, US.
+         
+         This software redistributes the versioneer Python package, which is
+         Public domain source code.
+         
+         This software is also distributed as a Docker container image.
+         The bootstraping file for the image ("Dockerfile") is licensed
+         under the MIT License.
+         
+         This software may be distributed through an add-on package called
+         "Docker Wrapper" that is under the BSD 3-clause License.
+         #################################################################
+220218-11:11:03,874 nipype.workflow IMPORTANT:
+	 Building fMRIPrep's workflow:
+           * BIDS dataset path: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002748-fmriprep/sourcedata/raw.
+           * Participant list: ['07'].
+           * Run identifier: 20220218-111015_194cd025-6dcb-4fad-bb1c-2bd330af14e9.
+           * Output spaces: MNI152NLin2009cAsym:res-2 anat func fsaverage:den-10k.
+           * Pre-run FreeSurfer's SUBJECTS_DIR: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002748-fmriprep/sourcedata/freesurfer.
+220218-11:11:09,510 nipype.workflow ERROR:
+	 Fieldmap-less (SyN) estimation was requested, but PhaseEncodingDirection information appears to be absent.
+220218-11:11:09,776 nipype.workflow INFO:
+	 No single-band-reference found for sub-07_task-rest_bold.nii.gz.
+220218-11:11:17,338 nipype.workflow INFO:
+	 fMRIPrep workflow graph with 399 nodes built successfully.
