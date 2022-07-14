@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s300567--1d52283c1edeb5bc4092662f1a6ddd1a.K
+../../../../.git/annex/objects/54/Kp/MD5E-s300567--1d52283c1edeb5bc4092662f1a6ddd1a.K/MD5E-s300567--1d52283c1edeb5bc4092662f1a6ddd1a.K
