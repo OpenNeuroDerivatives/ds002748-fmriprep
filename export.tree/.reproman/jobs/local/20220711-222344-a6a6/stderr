@@ -1,0 +1,35 @@
+WARNING (07/12/22 05:17:57): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4620752.hostlist.DB3fCeE4 to get hosts
+starting job on c101-012
+starting job on c101-013
+starting job on c179-083
+starting job on c179-084
+starting job on c179-091
+starting job on c179-191
+starting job on c179-192
+starting job on c179-193
+starting job on c180-133
+starting job on c180-134
+starting job on c180-141
+starting job on c180-143
+starting job on c180-144
+starting job on c180-151
+starting job on c180-213
+starting job on c180-214
+starting job on c181-001
+Warning: Permanently added 'c179-191' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c101-012' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-141' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-134' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c179-193' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c179-084' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c101-013' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c179-192' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-143' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c179-083' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-151' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-144' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c181-001' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-214' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-213' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c180-133' (ED25519) to the list of known hosts.
