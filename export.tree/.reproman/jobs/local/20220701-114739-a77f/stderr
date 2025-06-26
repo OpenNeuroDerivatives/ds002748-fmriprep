@@ -1,0 +1,22 @@
+Warning: Permanently added 'c165-144' (ED25519) to the list of known hosts.
+WARNING (07/01/22 21:56:09): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4562744.hostlist.kqR7M8f4 to get hosts
+starting job on c165-144
+starting job on c165-192
+starting job on c165-203
+starting job on c166-012
+starting job on c166-043
+starting job on c166-083
+starting job on c166-124
+starting job on c167-012
+starting job on c167-113
+starting job on c167-173
+starting job on c167-192
+starting job on c168-061
+starting job on c168-072
+starting job on c168-183
+starting job on c169-073
+starting job on c169-111
+starting job on c169-124
+starting job on c169-213
+Terminated
